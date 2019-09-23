@@ -31,7 +31,8 @@
         "https://proandroiddev.com/*",
         "https://blog.prototypr.io/*",
         "https://thebolditalic.com/*",
-        "https://badootech.badoo.com/*"
+        "https://badootech.badoo.com/*",
+        "https://blog.usejournal.com/*"
       ],
       "js": ["main.bundle.js"]
     }
@@ -63,7 +64,8 @@
     "https://proandroiddev.com/*",
     "https://blog.prototypr.io/*",
     "https://thebolditalic.com/*",
-    "https://badootech.badoo.com/*"
+    "https://badootech.badoo.com/*",
+    "https://blog.usejournal.com/*"
   ],
   "web_accessible_resources": ["static/*"]
 }
