@@ -32,7 +32,10 @@
         "https://blog.prototypr.io/*",
         "https://thebolditalic.com/*",
         "https://badootech.badoo.com/*",
-        "https://blog.usejournal.com/*"
+        "https://blog.usejournal.com/*",
+        "https://android.jlelse.eu/*",
+        "https://engineering.salesforce.com/*",
+        "https://blog.softwaremill.com/*"
       ],
       "js": ["main.bundle.js"]
     }
@@ -65,7 +68,10 @@
     "https://blog.prototypr.io/*",
     "https://thebolditalic.com/*",
     "https://badootech.badoo.com/*",
-    "https://blog.usejournal.com/*"
+    "https://blog.usejournal.com/*",
+    "https://android.jlelse.eu/*",
+    "https://engineering.salesforce.com/*",
+    "https://blog.softwaremill.com/*"
   ],
   "web_accessible_resources": ["static/*"]
 }

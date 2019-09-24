@@ -20,7 +20,10 @@ const urlsList = [
   'https://blog.prototypr.io/*',
   'https://thebolditalic.com/*',
   'https://badootech.badoo.com/*',
-  'https://blog.usejournal.com/*'
+  'https://blog.usejournal.com/*',
+  'https://android.jlelse.eu/*',
+  'https://engineering.salesforce.com/*',
+  'https://blog.softwaremill.com/*'
 ];
 
 export default function intercept(inProgressUrls) {
